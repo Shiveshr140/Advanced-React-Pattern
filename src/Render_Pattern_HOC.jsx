@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { faker } from "@faker-js/faker";
-import "./index.css";
+import "./style.css";
 import withToggles from "./HOC";
 
 // const products = Array.from({ length: 20 }, () => {
@@ -18,7 +18,7 @@ import withToggles from "./HOC";
 //   };
 // });
 
-// function ProductItem({ product }) {
+// function ProductItem({ product })
 //   return (
 //     <li className="product">
 //       <p className="product-name">{product.productName}</p>
